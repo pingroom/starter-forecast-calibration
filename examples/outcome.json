@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "manifestHash": "REPLACE_WITH_HASH_FROM_STATUS",
+  "eventId": "build-duration",
+  "observedAt": "2026-10-25T00:05:00.000Z",
+  "outcome": true,
+  "sourceReference": "CI job 1042 duration: 12m 18s"
+}

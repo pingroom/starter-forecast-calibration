@@ -1,0 +1,17 @@
+{
+  "studyId": "release-week-43",
+  "events": [
+    {
+      "id": "build-duration",
+      "statement": "The first production build on 2026-10-24 will finish in under 15 minutes, measured by its CI job duration.",
+      "forecastBefore": "2026-10-23T18:00:00.000Z",
+      "observeAfter": "2026-10-25T00:00:00.000Z"
+    },
+    {
+      "id": "support-backlog",
+      "statement": "The support queue will contain fewer than 10 open tickets at 2026-10-24T18:00:00Z, using the queue export at that time.",
+      "forecastBefore": "2026-10-23T18:00:00.000Z",
+      "observeAfter": "2026-10-25T00:00:00.000Z"
+    }
+  ]
+}
